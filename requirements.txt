@@ -1,2 +1,4 @@
 Flask
 Gunicorn
+Flask-WTF==0.15.1
+
